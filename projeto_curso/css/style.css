@@ -1,0 +1,22 @@
+#demo{
+    max-width: 50%;
+    width: 80%;
+    display: block; /* Necessário para o margin funcionar */
+    margin-left: auto; /* aqui */
+    margin-right: auto;
+    background-color: black;
+    
+}
+#carrossel{
+    width: 100%;
+    background-color: black;
+}
+img{
+    height: 450px;
+}
+body{
+    margin: 0 auto;
+    width: 100%;
+    height: 100%;
+    background-color: black;
+}
