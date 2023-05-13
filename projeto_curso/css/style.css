@@ -12,11 +12,44 @@
     background-color: black;
 }
 img{
-    height: 450px;
+    height: 480px;
 }
 body{
     margin: 0 auto;
     width: 100%;
     height: 100%;
-    background-color: black;
+    overflow-x: hidden;
 }
+#tudo{
+    background-color: black;
+    padding-bottom: 60px;
+}
+#titulo{
+    color: white;
+    text-align: center;
+    padding-bottom: 15px;
+}
+#contr1, #contr2, #contr3{
+    height: 100px;
+    max-width: 100px;
+}
+#produtos{
+    margin-bottom: 150px;
+}
+#flcon, #xguear{
+    text-align: center;
+}
+#xguear{
+    margin-top: 20px;
+    margin-bottom: 120px;
+}
+#resto{
+    margin-bottom: 280px;
+ }
+ #navbar{
+    background-color: rgb(28, 28, 43);
+ }
+#time{
+    margin-top: 80px;
+    margin-bottom: 280px;
+ }
